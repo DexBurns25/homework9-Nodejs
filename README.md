@@ -1,12 +1,14 @@
 # homework9-Nodejs
- lINKS 
+
+
+ Links 
  
  https://dexburns25.github.io/homework9-Nodejs/.
  
  
  
  
- 
+ https://github.com/DexBurns25/homework9-Nodejs.git
  
 
 Unit 09 Node.js and ES6+ Homework: Good README Generator
@@ -65,12 +67,6 @@ GitHub repository with a unique name and a README describing project.
 
 
 The generated README includes the following sections:
-
-
-
-
-
-
 
 
 Title
