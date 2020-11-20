@@ -66,8 +66,7 @@ License
 https://opensource.org/licenses/MIT
 
 
-Contributing
-Please contact me regarding guidance on contributing and pull requests
+
 
 
 Testing
