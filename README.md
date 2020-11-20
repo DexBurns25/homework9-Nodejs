@@ -12,6 +12,10 @@
  
 
 README-Generator
+
+
+
+
  
 Description
 Formatted README.md file using Node.js. Including Title, Description, License, Usage etc.
@@ -24,10 +28,20 @@ Criteria
 •	Contributing
 •	Testing
 •	Questions
+
+
+
+
+
+
 Description
 Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
 Repository
 https://github.com/DexBurns25/homework9-Nodejs.git
+
+
+
+
 
 
 Installation
@@ -35,6 +49,8 @@ Install Node.js (recommend 14.15.0) from https://nodejs.org.
 Fork repo and clone down to system.
 In the cloned directory, initialize Node package manager - npm init.
 Install npm package "inquirer" - npm install inquirer.
+
+
 
 
 Usage
