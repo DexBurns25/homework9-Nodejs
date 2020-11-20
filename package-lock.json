@@ -1,0 +1,29 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This utility prompts user via Inquirer to enter information about a project to generate a README.md file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gehanstedt/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "node.js",
+    "node",
+    "inquirer"
+  ],
+  "author": "Greg Hanstedt, GDog Enterprises",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gehanstedt/readme-generator/issues"
+  },
+  "homepage": "https://github.com/gehanstedt/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
