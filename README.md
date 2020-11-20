@@ -13,10 +13,9 @@
 
 README.md
 README-Generator
-License: ISC
 
-Description
-Formatted README.md file using Node.js. Including Title, Description, License, Usage etc.
+ISC License (ISC)
+
 
 Criteria
 Description
