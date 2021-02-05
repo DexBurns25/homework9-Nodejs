@@ -24,7 +24,7 @@
 # Demo
 
 # Screenshots 
-(https://user-images.githubusercontent.com/71415601/106977855-1a730e00-6729-11eb-8292-413341d17a74.JPG)
+[hw2](https://user-images.githubusercontent.com/71415601/106977940-42627180-6729-11eb-8034-5a6833f67f60.JPG)
 
 
 # Usage
