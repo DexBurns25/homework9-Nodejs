@@ -9,7 +9,6 @@
 
 # README-Generator
 
-- https://opensource.org/licenses/ISC
 
 
 # Description
@@ -21,6 +20,11 @@
 - Fork repo and clone down to system.
 - In the cloned directory, initialize Node package manager - npm init.
 - Install npm package "inquirer" - npm install inquirer.
+
+# Demo
+
+# Screenshots 
+
 
 # Usage
 - Used for generating a README.md file for your projects, README-generator creates a file called NEWREADME.md.
