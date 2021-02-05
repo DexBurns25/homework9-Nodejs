@@ -12,17 +12,6 @@
 - https://opensource.org/licenses/ISC
 
 
-•	Description
-•	Repository
-•	Installation
-•	Usage
-•	License
-•	Contributing
-•	Testing
-•	Questions
-
-
-
 # Description
 - Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
 
