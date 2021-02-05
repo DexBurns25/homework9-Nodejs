@@ -1,28 +1,15 @@
 # homework9-Nodejs
 
 
- Links 
+ # Links 
  
- https://dexburns25.github.io/homework9-Nodejs/.
- 
- 
- 
- 
- https://github.com/DexBurns25/homework9-Nodejs.git
+ - https://dexburns25.github.io/homework9-Nodejs/.
+ - https://github.com/DexBurns25/homework9-Nodejs.git
  
 
-README-Generator
+# README-Generator
 
-https://opensource.org/licenses/ISC
-
-
- 
-Description
-Formatted README.md file using Node.js. Including Title, Description, License, Usage etc.
-Criteria
-
-
-
+- https://opensource.org/licenses/ISC
 
 
 •	Description
@@ -36,41 +23,28 @@ Criteria
 
 
 
+# Description
+- Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
 
 
+# Installation
+- Install Node.js (recommend 14.15.0) from https://nodejs.org.
+- Fork repo and clone down to system.
+- In the cloned directory, initialize Node package manager - npm init.
+- Install npm package "inquirer" - npm install inquirer.
 
-Description
-Formatted README.md file using Node.js. Including Title, Description, License, Credits etc.
-Repository
-https://github.com/DexBurns25/homework9-Nodejs.git
+# Usage
+- Used for generating a README.md file for your projects, README-generator creates a file called NEWREADME.md.
 
-
-
-
-
-
-Installation
-Install Node.js (recommend 14.15.0) from https://nodejs.org.
-Fork repo and clone down to system.
-In the cloned directory, initialize Node package manager - npm init.
-Install npm package "inquirer" - npm install inquirer.
-
-
-
-
-Usage
-Used for generating a README.md file for your projects, README-generator creates a file called NEWREADME.md.
-
-
-License
-https://opensource.org/licenses/MIT
+# License
+- https://opensource.org/licenses/MIT
 
 
 
 
 
-Testing
-Answer prompts to test usability and verify README.md is in correct format.
+# Testing
+- Answer prompts to test usability and verify README.md is in correct format.
 
 
 Questions
