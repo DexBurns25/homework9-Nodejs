@@ -22,6 +22,7 @@
 - Install npm package "inquirer" - npm install inquirer.
 
 # Demo
+https://drive.google.com/file/d/140eLd2lS49G-g7yjMgmHPNDJwluc-8nb/view
 
 # Screenshots 
 [hw2](https://user-images.githubusercontent.com/71415601/106977940-42627180-6729-11eb-8034-5a6833f67f60.JPG)
